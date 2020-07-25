@@ -2,5 +2,31 @@
 upsilon 
 #mindustry-mod
 
+  este mod es creado por TheDragonsCrafts
+
+Gente que apoyo en este Mod:
+
+Sprites:
+https://github.com/pankiwi/mindustry_newGeneration
+pankiwi
+pankiwi/mindustry_newGeneration
+
+Betatesters:
+Maxi01243
+
+
+Changelog:
+
+V0.01
+Added beta surge first phase prealpha
+
+v0.02
+prealpha
+added nitrogen liquid and machine
+aded electrum conveyor (more faster than all)
+added ZubZero items
+tweaks and Improvments
+
+
 
 
