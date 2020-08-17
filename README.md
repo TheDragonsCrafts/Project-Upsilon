@@ -12,7 +12,7 @@ pankiwi
 pankiwi/mindustry_newGeneration
 
 Betatesters:
-Maxi01243
+Maxi01243, CatLink, HDADM
 
 
 Changelog:
