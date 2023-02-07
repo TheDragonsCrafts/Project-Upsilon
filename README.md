@@ -9,7 +9,7 @@ Gente que apoyo en este Mod:
 Sprites:
 https://github.com/pankiwi/mindustry_newGeneration
 pankiwi
-pankiwi/mindustry_newGeneration
+pankiwi/mindustry_newGeneration (Deprecated and descontinued)
 
 Betatesters:
 Maxi01243, CatLink, HDADM
