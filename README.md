@@ -7,11 +7,10 @@ upsilon
 Gente que apoyo en este Mod:
 
 Sprites:
-https://github.com/pankiwi/mindustry_newGeneration
+https://github.com/pankiwi/mindustry_newGeneration (Deprecated and descontinued)
 
 
 [Pankiwi](https://github.com/GuyBread)
-pankiwi/mindustry_newGeneration (Deprecated and descontinued)
 
 Betatesters:
 Maxi01243, CatLink, HDADM
